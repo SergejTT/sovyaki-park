@@ -18,7 +18,7 @@ const SITE_DATA = {
     phoneUrl: "tel:+74952302534",
 
     // 2. MAX
-    maxUrl: "https://max.ru/your_profile",
+    maxUrl: "https://max.ru/u/f9LHodD0cOJMjaSDcnktLKbgndRi2RKifY8PGmabCDHkG95UZeThbyZj0Qc",
 
     // 3. Telegram
     tgUrl: "https://t.me/Sovyakipark2020"
